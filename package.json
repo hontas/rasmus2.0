@@ -30,6 +30,7 @@
     "leaflet": "^1.5.1",
     "register-service-worker": "^1.6.2",
     "relative-time-format": "^1.0.5",
+    "svelte": "^3.19.1",
     "vue": "^2.6.10",
     "vuex": "^3.1.1",
     "vuex-persist": "^2.1.1"
@@ -47,6 +48,8 @@
     "eslint-plugin-vue": "^5.2.3",
     "husky": "^3.0.9",
     "lint-staged": "^9.4.2",
+    "rollup": "^1.32.0",
+    "rollup-plugin-svelte": "^5.1.1",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
     "vue-template-compiler": "^2.6.10"
